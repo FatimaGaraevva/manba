@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\viewmodels\\productvm\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\viewmodels\\productvm\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\viewmodels\\productvm\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\viewmodels\\productvm\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\viewmodels\\productvm\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\viewmodels\\productvm\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\startbootstrap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\startbootstrap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\utilites\\enam\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\utilites\\enam\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\utilites\\extenions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\utilites\\extenions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Migrations\\20250515114757_createdimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StartBootstrap\\Migrations\\20250515114757_createdimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Migrations\\20250515112620_CreateProductAndCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StartBootstrap\\Migrations\\20250515112620_CreateProductAndCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|c:\\users\\novbe 2\\source\\repos\\startbootstrap\\startbootstrap\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D4067A15-13E4-4C62-8763-E51D1262D114}|StartBootstrap\\StartBootstrap.csproj|solutionrelative:startbootstrap\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "RelativeToolTip": "StartBootstrap\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:50:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:37:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "StartBootstrap\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:39:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:47:51.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:38:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:43:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:38:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "RelativeToolTip": "StartBootstrap\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:51:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "RelativeToolTip": "StartBootstrap\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:52:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:23:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:50:16.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:50:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:45:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAAOEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:49:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:48:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Models\\Product.cs",
+              "RelativeToolTip": "StartBootstrap\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:50:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "StartBootstrap\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "StartBootstrap\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-15T12:43:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Utilites\\Extenions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Utilites\\Extenions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Utilites\\Extenions\\FileValidator.cs",
+              "RelativeToolTip": "StartBootstrap\\Utilites\\Extenions\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:15:50.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Utilites\\Enam\\FileSize.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Utilites\\Enam\\FileSize.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Utilites\\Enam\\FileSize.cs",
+              "RelativeToolTip": "StartBootstrap\\Utilites\\Enam\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:14:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250515114757_createdimages.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Migrations\\20250515114757_createdimages.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Migrations\\20250515114757_createdimages.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Migrations\\20250515114757_createdimages.cs",
+              "RelativeToolTip": "StartBootstrap\\Migrations\\20250515114757_createdimages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:47:57.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Program.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Program.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Program.cs",
+              "RelativeToolTip": "StartBootstrap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:42:20.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:43:30.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartBootstrap",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\StartBootstrap.csproj",
+              "RelativeDocumentMoniker": "StartBootstrap\\StartBootstrap.csproj",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\StartBootstrap.csproj",
+              "RelativeToolTip": "StartBootstrap\\StartBootstrap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T11:38:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\appsettings.json",
+              "RelativeDocumentMoniker": "StartBootstrap\\appsettings.json",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\appsettings.json",
+              "RelativeToolTip": "StartBootstrap\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T11:07:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Models\\Category.cs",
+              "RelativeToolTip": "StartBootstrap\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:53:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "StartBootstrap\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:51:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StartBootstrap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:42:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250515112620_CreateProductAndCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Migrations\\20250515112620_CreateProductAndCategoryTable.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\Migrations\\20250515112620_CreateProductAndCategoryTable.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Migrations\\20250515112620_CreateProductAndCategoryTable.cs",
+              "RelativeToolTip": "StartBootstrap\\Migrations\\20250515112620_CreateProductAndCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StartBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StartBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwE4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:40:29.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StartBootstrap\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "StartBootstrap\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:58:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "StartBootstrap\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\novbe 2\\source\\repos\\StartBootstrap\\StartBootstrap\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "StartBootstrap\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-05-15T10:44:42.004Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

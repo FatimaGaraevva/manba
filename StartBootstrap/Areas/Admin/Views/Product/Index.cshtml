@@ -1,0 +1,53 @@
+﻿
+@model List<GetProductVM>
+@{
+    int count = 0;
+}
+<div class="row">
+    <div class="col-md-12 stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <p class="card-title">Product</p>
+                <div class="table-responsive">
+                    <table id="recent-purchases-listing" class="table">
+                        <thead>
+                            <tr>
+                                <th>No</th>
+                                <th>Name</th>
+                                <th>Image</th>
+                                <th>Category</th>
+                                <th>Setting</th>
+                                
+                               
+                            </tr>
+                        </thead>
+                        @foreach (GetProductVM productVM  in Model)
+                        {
+                            <tr>
+                                count++
+                                <td>@count</td>
+                                <td>@productVM.Name</td>
+                                <td>@productVM.Image</td>
+                                <td>@productVM.Category</td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@productVM.Id" >Update</a>
+                                    <a asp-action="Delete" asp-route-id="@productVM.Id">Delete</a>
+                                    <a asp-action="Detail" asp-route-id="@productVM.Id">Detail</a>
+                                    
+                                </td>
+                           
+                            </tr>
+                            
+                            
+                        }
+                       
+                        <tbody>
+               
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
