@@ -104,7 +104,6 @@ wwwroot\assets\img\team\1.jpg
 wwwroot\assets\img\team\2.jpg
 wwwroot\assets\img\team\3.jpg
 wwwroot\assets\js\scripts.js
-wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

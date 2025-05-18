@@ -10,6 +10,7 @@ namespace StartBootstrap.ViewModels.ProductVM
 
         public int? CategoryId { get; set; }
         public List< Category> Categories { get; set; }
+        public string Category{ get; set; } 
         [Required]
         public decimal? Price { get; set; }
     }

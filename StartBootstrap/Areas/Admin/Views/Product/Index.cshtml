@@ -1,5 +1,6 @@
 ﻿
 @model List<GetProductVM>
+
 @{
     int count = 0;
 }
@@ -8,13 +9,16 @@
         <div class="card">
             <div class="card-body">
                 <p class="card-title">Product</p>
+                <a asp-action="create" class="btn btn-success" >Created</a>
                 <div class="table-responsive">
                     <table id="recent-purchases-listing" class="table">
                         <thead>
                             <tr>
                                 <th>No</th>
                                 <th>Name</th>
-                                <th>Image</th>
+                                <th>
+                                    Image
+                                </th>
                                 <th>Category</th>
                                 <th>Setting</th>
                                 
@@ -23,16 +27,18 @@
                         </thead>
                         @foreach (GetProductVM productVM  in Model)
                         {
+                            count++;
                             <tr>
-                                count++
-                                <td>@count</td>
-                                <td>@productVM.Name</td>
-                                <td>@productVM.Image</td>
-                                <td>@productVM.Category</td>
+                              <td>@count</td>
+                              <td>@productVM.Name</td>
                                 <td>
-                                    <a asp-action="Update" asp-route-id="@productVM.Id" >Update</a>
-                                    <a asp-action="Delete" asp-route-id="@productVM.Id">Delete</a>
-                                    <a asp-action="Detail" asp-route-id="@productVM.Id">Detail</a>
+                                <img src="~/assets/img/portfolio/@productVM.Image" />
+                               </td>
+                                <td>@productVM.Category.Name</td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@productVM.Id" class="btn btn-warning">Update</a>
+                                    <a asp-action="Delete" asp-route-id="@productVM.Id" class=" btn btn-danger">Delete</a>
+                                    <a asp-action="Detail" asp-route-id="@productVM.Id" class=" btn btn-primary">Detail</a>
                                     
                                 </td>
                            

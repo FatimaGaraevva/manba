@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StartBootstrap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc6f24df7c14603cd2528d8fdf3a09ab68d9a214")]
 [assembly: System.Reflection.AssemblyProductAttribute("StartBootstrap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StartBootstrap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

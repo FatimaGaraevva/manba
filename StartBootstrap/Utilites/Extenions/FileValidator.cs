@@ -8,7 +8,7 @@ namespace StartBootstrap.Utilites.Extenions
         {
             return file.ContentType.Contains(type);
         }
-        public static bool ValidateSize(this IFormFile file, FileSize fileSize, string size)
+        public static bool ValidateSize(this IFormFile file, FileSize fileSize, int size)
         {
             switch (fileSize)
             {
